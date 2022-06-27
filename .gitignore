@@ -1,3 +1,5 @@
 /commercials
 /songs
 .vscode
+.pyc
+__pycache__
