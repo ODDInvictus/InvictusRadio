@@ -1,0 +1,5 @@
+audioDatabase/functional/*
+audioDatabase/music/*
+__pycache__
+passwords.py
+.cache

@@ -1,0 +1,1 @@
+{"eventName": "Ice Tijd", "fileName": "IceTijd", "eventType": "semiScheduled", "allowedTimes": [{"day": "Every", "startTime": "15:00", "endTime": "23:59"}], "expectedTimeInterval": 100}
